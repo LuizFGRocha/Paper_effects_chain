@@ -3,6 +3,8 @@
 
 Listen to the samples of our new dataset here: [https://michelerossi1.github.io/guitar_dataset_examples/](https://michelerossi1.github.io/guitar_dataset_examples/)
 
+Download the datase here: [https://zenodo.org/records/7871720](https://zenodo.org/records/7871720)
+
 <!-- ![paper_effects](https://user-images.githubusercontent.com/61735529/232543661-e4938fa6-b574-4799-97c3-b3639ec8aacb.png)  -->
 
 ![effects_paper_small](https://github.com/user-attachments/assets/27d12faf-332c-475d-9ae5-8fef90af628d)
